@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+form {
+    background: white;
+    padding: 15px;
+    max-width: 400px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+input, button {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#events {
+    max-width: 600px;
+    margin: 20px auto;
+}
